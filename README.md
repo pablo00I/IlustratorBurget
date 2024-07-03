@@ -9,19 +9,19 @@
 
 1️⃣ **Начальный этап:**
 
-[![Начальный этап](https://your_link_to_image_1)](https://drive.google.com/file/d/your_drive_link_1/view?usp=sharing)
+[![Начальный этап](https://drive.google.com/file/d/1AG2ms56bQGe6lJK8kznn1zSQT_y6-7c2/view?usp=drive_link)
 
 На начальном этапе была создана основная структура и макет изображения.
 
 2️⃣ **Промежуточный этап:**
 
-[![Промежуточный этап](https://your_link_to_image_2)](https://drive.google.com/file/d/your_drive_link_2/view?usp=sharing)
+[![Промежуточный этап](https://drive.google.com/file/d/1D_E2u_vZw-awx76Bru5mgYE3yvDCJfvv/view?usp=drive_link)
 
 На этом этапе мы добавили дополнительные элементы и улучшили детали.
 
 3️⃣ **Финальная версия:**
 
-[![Финальная версия](https://your_link_to_image_3)](https://drive.google.com/file/d/your_drive_link_3/view?usp=sharing)
+[![Финальная версия](https://drive.google.com/file/d/1LCTHRJ7DaConpAVWksO_NwQuaz0fGqI1/view?usp=drive_link)
 
 Финальная версия включает в себя окончательные правки и улучшения, готовые к использованию в рекламе.
 
